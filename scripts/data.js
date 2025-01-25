@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    image: "../images/products/ligherMarkt.jpg",
+    image: "./images/products/ligherMarkt.jpg",
     title: "Встраиваемый светильник Markt",
     oldPrice: "5 060",
     price: "3 490",
@@ -9,14 +9,14 @@ export const products = [
   },
   {
     id: 2,
-    image: "../images/products/ligherARG.jpg",
+    image: "./images/products/ligherARG.jpg",
     title: "Линейный светильник ARG",
     price: "3 490",
     sales: false,
   },
   {
     id: 3,
-    image: "../images/products/lighter.jpg",
+    image: "./images/products/lighter.jpg",
     title: "Светодиодный светильник",
     oldPrice: "6 060",
     price: "5 060",
@@ -24,14 +24,14 @@ export const products = [
   },
   {
     id: 4,
-    image: "../images/products/ligherMarkt.jpg",
+    image: "./images/products/ligherMarkt.jpg",
     title: "Встраиваемый светильник Markt",
     price: "3 490",
     sales: false,
   },
   {
     id: 5,
-    image: "../images/products/ligherARG.jpg",
+    image: "./images/products/ligherARG.jpg",
     title: "Линейный светильник ARG",
     oldPrice: "6 700",
     price: "6 060",
@@ -39,14 +39,14 @@ export const products = [
   },
   {
     id: 6,
-    image: "../images/products/lighter.jpg",
+    image: "./images/products/lighter.jpg",
     title: "Сведодиодный светильник",
     price: "5 060",
     sales: false,
   },
   {
     id: 7,
-    image: "../images/products/ligherMarkt.jpg",
+    image: "./images/products/ligherMarkt.jpg",
     title: "Светодиодный светильник",
     oldPrice: "6 060",
     price: "3 490",
@@ -54,7 +54,7 @@ export const products = [
   },
   {
     id: 8,
-    image: "../images/products/ligherARG.jpg",
+    image: "./images/products/ligherARG.jpg",
     title: "Линейный светильник ARG",
     price: "6 700",
     sales: false,
